@@ -34,6 +34,18 @@ Credits and references used in this README:
 
 <table>
   <tr>
+     <td align="center" width="33%">
+      <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">
+        <img src="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/blob/main/intro.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>HSI denoising web interface</b><br/>
+      <sub>Deployed the custom hyperspectral image denoising model on a webpage interface.</sub><br/>
+      🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
+      <br/>
+    </td>
     <td align="center" width="33%">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
         <img src="FIG1_arch.png"
@@ -45,18 +57,6 @@ Credits and references used in this README:
       <sub>Developed a fully automated model that uses deep learning and transformers to clean hyperspectral images having multiple types
          of distortions and makes the images reusable.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">Repo</a>
-      <br/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">
-        <img src="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/blob/main/intro.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Deployed the custom hyperspectral image denoising model on a webpage interface.</sub><br/>
-      🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
       <br/>
     </td>
     <td align="center" width="33%">
