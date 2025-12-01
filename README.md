@@ -23,9 +23,9 @@ Credits and references used in this README:
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,,tensorflow,ubuntu,git,github,fastapi,react,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,ubuntu,git,github,fastapi&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+**Also comfortable with**: Also, comfortable with flutter, Google firebase and basic machine learning workflows.
 
 
 ---
