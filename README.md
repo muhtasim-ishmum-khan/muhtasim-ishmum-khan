@@ -78,8 +78,9 @@ Credits and references used in this README:
 
 
 ## Links
-- [**Contact**](mailto:muhtasim2013@gmail.com)
-
+<a href="muhtasim2013@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
+</a>
 <a href="https://www.linkedin.com/in/muhtasim-ishmum-khan/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
