@@ -25,7 +25,7 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,ubuntu,git,github,fastapi&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: Also, comfortable with Flutter, Google firebase and basic machine learning workflows.
+**Also comfortable with**: React, Flutter, MATLAB and basic machine learning workflows.
 
 
 ---
