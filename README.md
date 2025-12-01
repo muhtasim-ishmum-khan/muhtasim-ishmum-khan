@@ -43,7 +43,7 @@ Credits and references used in this README:
       </a>
       <br/>
       <b>HSI denoising web interface</b><br/>
-      <sub>Deployed the custom hyperspectral image denoising model on a webpage interface.</sub><br/>
+      <sub>Deployed the custom hyperspectral image denoising model via a web application, displaying the distorted image beside the cleaned image.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
       <br/>
     </td>
@@ -68,7 +68,7 @@ Credits and references used in this README:
       </a>
       <br/>
       <b>Deep Learning Project on MRI-dataset</b><br/>
-      <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models.</sub><br/>
+      <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models at classifying brain tumours from MRI scan images.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">Repo</a>
       <br/>
     </td>
