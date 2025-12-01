@@ -15,9 +15,10 @@ Credits and references used in this README:
 
 
 ## About Me
-- A machine learning enthusiast, actively trying to learn the core advances of ML.
-- Interested at designing and deploying technical solutions using deep learning.
-- Ethical user of AI
+- Machine learning enthusiast, actively trying to learn the core advancements of ML.
+- Focused at designing and deploying technical solutions using deep learning models and methods.
+- Interested at combining latest research findings with existing ML methods for smarter and more optimized applications.
+  
 
 
 ## Skill stack
