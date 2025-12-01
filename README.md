@@ -36,7 +36,7 @@ Credits and references used in this README:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="FIG1_arch.png"
              alt="HSI Denoising Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
