@@ -11,13 +11,13 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# Welcome !
-**`Growth Lead at NextWork`** 
+# Welcome to my profile!
+
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- A machine learning enthusiast, actively trying to learn the core advances of ML.
+- Interested at designing and deploying technical solutions using deep learning.
+- Ethical user of AI
 
 
 ## Skill stack
