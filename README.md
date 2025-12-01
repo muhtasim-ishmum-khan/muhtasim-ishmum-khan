@@ -67,7 +67,7 @@ Credits and references used in this README:
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
+      <b>Deep Learning Project on MRI-dataset</b><br/>
       <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">Repo</a>
       <br/>
