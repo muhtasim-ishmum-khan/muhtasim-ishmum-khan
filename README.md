@@ -83,12 +83,12 @@ Credits and references used in this README:
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/muhtasim-ishmum-khan/MacLens">
-        <img src="YOUR_FOURTH_IMAGE_URL"
-             alt="A minimalist software for MacOS to see all apps, hidden files, packages, dependenices cached files that are consuming storage"
+        <img src="disklens_app_icon.png"
+             alt="MacLens: A storage manager for MacOS"
              style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Your Fourth Project Title</b><br/>
+      <b>A minimalist software for MacOS to see all apps, hidden files, packages, dependenices cached files that are consuming storage</b><br/>
       <sub>Brief description of your fourth project goes here.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/MacLens">Repo</a>
     </td>
