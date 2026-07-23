@@ -44,44 +44,53 @@ Credits and references used in this README:
 
 ## Projects - showcase
 
+## Projects - showcase
+
 <table>
   <tr>
-     <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">
         <img src="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/blob/main/intro.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             alt="HSI denoising web interface"
+             style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/>
       <b>HSI denoising web interface</b><br/>
       <sub>Deployed the custom hyperspectral image denoising model via a web application, displaying the distorted image beside the cleaned image.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
-      <br/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
         <img src="FIG1_arch.png"
              alt="HSI Denoising Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/>
       <b>HSI Denoising Project</b><br/>
-      <sub>Developed a fully automated model that uses deep learning and transformers to clean hyperspectral images having multiple types
-         of distortions and makes the images reusable.</sub><br/>
+      <sub>Developed a fully automated model that uses deep learning and transformers to clean hyperspectral images having multiple types of distortions and makes the images reusable.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">Repo</a>
-      <br/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">
         <img src="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465/blob/main/intro_p3.PNG"
              alt="Deep Learning Project on MRI-dataset"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Deep Learning Project on MRI-dataset</b><br/>
       <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models at classifying brain tumours from MRI scan images.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">Repo</a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/muhtasim-ishmum-khan/MacLens">
+        <img src="YOUR_FOURTH_IMAGE_URL"
+             alt="A minimalist software for MacOS to see all apps, hidden files, packages, dependenices cached files that are consuming storage"
+             style="width:100%; height:180px; object-fit:cover;"/>
+      </a>
       <br/>
+      <b>Your Fourth Project Title</b><br/>
+      <sub>Brief description of your fourth project goes here.</sub><br/>
+      🔗 <a href="https://github.com/muhtasim-ishmum-khan/MacLens">Repo</a>
     </td>
   </tr>
 </table>
