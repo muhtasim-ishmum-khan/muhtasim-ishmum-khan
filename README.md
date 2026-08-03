@@ -44,8 +44,6 @@ Credits and references used in this README:
 
 ## Projects - showcase
 
-## Projects - showcase
-
 <table>
   <tr>
     <td align="center" width="25%">
@@ -88,8 +86,8 @@ Credits and references used in this README:
              style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>A minimalist software for MacOS to see all apps, hidden files, packages, dependenices cached files that are consuming storage</b><br/>
-      <sub>Brief description of your fourth project goes here.</sub><br/>
+      <b>MacLens: A storage manager for MacOS</b><br/>
+      <sub>A minimalist software for MacOS to see all apps, hidden files, packages, dependenices cached files that are consuming storage.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/MacLens">Repo</a>
     </td>
   </tr>
