@@ -49,7 +49,8 @@ Credits and references used in this README:
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">
         <img src="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/blob/main/intro.png"
              alt="HSI denoising web interface"
-             style="width:100%; height:220px; object-fit:contain;"/>
+             width="220"
+             height="220"/>
       </a>
       <br/>
       <b>HSI denoising web interface</b><br/>
@@ -60,7 +61,8 @@ Credits and references used in this README:
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
         <img src="FIG1_arch.png"
              alt="HSI Denoising Project"
-             style="width:100%; height:220px; object-fit:contain;"/>
+             width="220"
+             height="220"/>
       </a>
       <br/>
       <b>HSI Denoising Project</b><br/>
@@ -74,7 +76,8 @@ Credits and references used in this README:
       <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">
         <img src="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465/blob/main/intro_p3.PNG"
              alt="Deep Learning Project on MRI-dataset"
-             style="width:100%; height:220px; object-fit:contain;"/>
+             width="220"
+             height="220"/>
       </a>
       <br/>
       <b>Deep Learning Project on MRI-dataset</b><br/>
@@ -85,7 +88,8 @@ Credits and references used in this README:
       <a href="https://github.com/muhtasim-ishmum-khan/MacLens">
         <img src="disklens_app_icon.png"
              alt="MacLens: A storage manager for MacOS"
-             style="width:100%; height:220px; object-fit:contain;"/>
+             width="220"
+             height="220"/>
       </a>
       <br/>
       <b>MacLens: A storage manager for MacOS</b><br/>
