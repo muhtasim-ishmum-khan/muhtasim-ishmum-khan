@@ -41,58 +41,61 @@ Credits and references used in this README:
 
 
 ---
-
 ## Projects - showcase
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%" style="padding:20px;">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">
         <img src="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/blob/main/intro.png"
              alt="HSI denoising web interface"
-             style="width:100%; height:180px; object-fit:cover;"/>
+             style="width:100%; height:220px; object-fit:contain;"/>
       </a>
       <br/>
       <b>HSI denoising web interface</b><br/>
       <sub>Deployed the custom hyperspectral image denoising model via a web application, displaying the distorted image beside the cleaned image.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
     </td>
-    <td align="center" width="25%">
+
+    <td align="center" width="50%" style="padding:20px;">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
         <img src="FIG1_arch.png"
              alt="HSI Denoising Project"
-             style="width:100%; height:180px; object-fit:cover;"/>
+             style="width:100%; height:220px; object-fit:contain;"/>
       </a>
       <br/>
       <b>HSI Denoising Project</b><br/>
       <sub>Developed a fully automated model that uses deep learning and transformers to clean hyperspectral images having multiple types of distortions and makes the images reusable.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">Repo</a>
     </td>
-    <td align="center" width="25%">
+  </tr>
+
+  <tr>
+    <td align="center" width="50%" style="padding:20px;">
       <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">
         <img src="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465/blob/main/intro_p3.PNG"
              alt="Deep Learning Project on MRI-dataset"
-             style="width:100%; height:180px; object-fit:cover;"/>
+             style="width:100%; height:220px; object-fit:contain;"/>
       </a>
       <br/>
       <b>Deep Learning Project on MRI-dataset</b><br/>
       <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models at classifying brain tumours from MRI scan images.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">Repo</a>
     </td>
-    <td align="center" width="25%">
+
+    <td align="center" width="50%" style="padding:20px;">
       <a href="https://github.com/muhtasim-ishmum-khan/MacLens">
         <img src="disklens_app_icon.png"
              alt="MacLens: A storage manager for MacOS"
-             style="width:100%; height:180px; object-fit:cover;"/>
+             style="width:100%; height:220px; object-fit:contain;"/>
       </a>
       <br/>
       <b>MacLens: A storage manager for MacOS</b><br/>
-      <sub>A minimalist software for MacOS to see all apps, hidden files, packages, dependenices cached files that are consuming storage.</sub><br/>
+      <sub>A minimalist software for MacOS to see all apps, hidden files, packages, dependencies, cached files that are consuming storage.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/MacLens">Repo</a>
     </td>
   </tr>
 </table>
-
 ---
 
 
