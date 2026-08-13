@@ -56,7 +56,6 @@ Credits and references used in this README:
       <sub>Deployed the custom hyperspectral image denoising model via a web application, displaying the distorted image beside the cleaned image.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
     </td>
-
     <td align="center" width="50%" style="padding:20px;">
       <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
         <img src="FIG1_arch.png"
@@ -82,7 +81,6 @@ Credits and references used in this README:
       <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models at classifying brain tumours from MRI scan images.</sub><br/>
       🔗 <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">Repo</a>
     </td>
-
     <td align="center" width="50%" style="padding:20px;">
       <a href="https://github.com/muhtasim-ishmum-khan/MacLens">
         <img src="disklens_app_icon.png"
